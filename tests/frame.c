@@ -11,3 +11,4 @@ int main(void)
 /* assert opcode */
 /* header length */
 /* text opcode is 1 */
+/* binary opcode is 2 */
