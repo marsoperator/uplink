@@ -11,3 +11,4 @@ int up_frame(unsigned char *out, int op, const unsigned char *data, int n)
 /* close frame */
 /* payload length byte */
 /* opcode in the low nibble */
+/* 8 bit length only */
