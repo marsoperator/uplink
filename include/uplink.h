@@ -15,3 +15,4 @@ int up_recv(struct up_conn *c);
 void up_close(struct up_conn *c);
 
 #endif
+/* connection struct, 8k buffer */
