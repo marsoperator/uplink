@@ -27,3 +27,4 @@ void up_close(struct up_conn *c)
 /* write returns short on a full pipe */
 /* read into the buffer */
 /* return -1 when fd is closed */
+/* no retry inside send */
