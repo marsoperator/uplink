@@ -8,3 +8,4 @@ int up_frame(unsigned char *out, int op, const unsigned char *data, int n)
     return n + 2;
 }
 /* frame header */
+/* close frame */
