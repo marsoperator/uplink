@@ -8,3 +8,4 @@ uplink: src/sock.o src/frame.o src/main.o
 
 clean:
 	rm -f uplink src/*.o
+# c89
