@@ -7,3 +7,4 @@ int up_frame(unsigned char *out, int op, const unsigned char *data, int n)
     out[1] = (unsigned char)n;
     return n + 2;
 }
+/* frame header */
