@@ -23,3 +23,4 @@ void up_close(struct up_conn *c)
 {
     close(c->fd);
 }
+/* open, send, recv, close */
