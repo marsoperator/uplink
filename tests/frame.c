@@ -10,3 +10,4 @@ int main(void)
 }
 /* assert opcode */
 /* header length */
+/* text opcode is 1 */
