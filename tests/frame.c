@@ -8,3 +8,4 @@ int main(void)
     assert(b[0] == 0x81);
     return 0;
 }
+/* assert opcode */
