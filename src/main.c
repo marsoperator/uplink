@@ -11,3 +11,4 @@ int main(int argc, char **argv)
 }
 /* usage line */
 /* argc check */
+/* exit 1 without args */
