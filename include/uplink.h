@@ -18,3 +18,4 @@ void up_close(struct up_conn *c);
 /* connection struct, 8k buffer */
 /* no dynamic allocation */
 /* buffer size constant */
+/* keep the header guard */
