@@ -16,3 +16,4 @@ void up_close(struct up_conn *c);
 
 #endif
 /* connection struct, 8k buffer */
+/* no dynamic allocation */
